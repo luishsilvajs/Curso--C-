@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace BootCamp___Pottencial.Models
+namespace BootcampDio.Common.Models
 {
     public class Pessoa
     {

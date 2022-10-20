@@ -1,5 +1,5 @@
-﻿ using BootCamp___Pottencial.Models;
-
+﻿ using BootcampDio.Common.Models;
+using System;
 // Pessoa pessoa1 = new Pessoa();
 
 // pessoa1.Nome = "Luis";
