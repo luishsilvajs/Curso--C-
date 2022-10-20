@@ -1,0 +1,15 @@
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\bin\Debug\net6.0\BootCamp - Pottencial.exe
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\bin\Debug\net6.0\BootCamp - Pottencial.deps.json
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\bin\Debug\net6.0\BootCamp - Pottencial.runtimeconfig.json
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\bin\Debug\net6.0\BootCamp - Pottencial.dll
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\bin\Debug\net6.0\BootCamp - Pottencial.pdb
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\obj\Debug\net6.0\BootCamp - Pottencial.csproj.AssemblyReference.cache
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\obj\Debug\net6.0\BootCamp - Pottencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\obj\Debug\net6.0\BootCamp - Pottencial.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\obj\Debug\net6.0\BootCamp - Pottencial.AssemblyInfo.cs
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\obj\Debug\net6.0\BootCamp - Pottencial.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\obj\Debug\net6.0\BootCamp - Pottencial.dll
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\obj\Debug\net6.0\refint\BootCamp - Pottencial.dll
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\obj\Debug\net6.0\BootCamp - Pottencial.pdb
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\obj\Debug\net6.0\BootCamp - Pottencial.genruntimeconfig.cache
+C:\Users\luisg\Desktop\DIO.ME\BootCamp - Pottencial\obj\Debug\net6.0\ref\BootCamp - Pottencial.dll
