@@ -1,0 +1,12 @@
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\bin\Debug\net6.0\BootcampDio.Common.deps.json
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\bin\Debug\net6.0\BootcampDio.Common.dll
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\bin\Debug\net6.0\BootcampDio.Common.pdb
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\obj\Debug\net6.0\BootcampDio.Common.csproj.AssemblyReference.cache
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\obj\Debug\net6.0\BootcampDio.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\obj\Debug\net6.0\BootcampDio.Common.AssemblyInfoInputs.cache
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\obj\Debug\net6.0\BootcampDio.Common.AssemblyInfo.cs
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\obj\Debug\net6.0\BootcampDio.Common.csproj.CoreCompileInputs.cache
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\obj\Debug\net6.0\BootcampDio.Common.dll
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\obj\Debug\net6.0\refint\BootcampDio.Common.dll
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\obj\Debug\net6.0\BootcampDio.Common.pdb
+C:\Users\luisg\Desktop\GitHub\BootCampDio\BootcampDio.Common\obj\Debug\net6.0\ref\BootcampDio.Common.dll

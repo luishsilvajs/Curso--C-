@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "BootcampDio.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BootcampDio.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BootcampDio.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BootcampDio.Common/1.0.0": {
+      "type": "project",
+      "path": "../BootcampDio.Common/BootcampDio.Common.csproj",
+      "msbuildProject": "../BootcampDio.Common/BootcampDio.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "BootcampDio.Common >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\luisg\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisg\\Desktop\\DIO.ME\\BootCamp - Pottencial\\BootCamp - Pottencial.csproj",
-      "projectName": "BootCamp - Pottencial",
-      "projectPath": "C:\\Users\\luisg\\Desktop\\DIO.ME\\BootCamp - Pottencial\\BootCamp - Pottencial.csproj",
+      "projectUniqueName": "C:\\Users\\luisg\\Desktop\\GitHub\\BootCampDio\\BootcampDio\\BootcampDio.csproj",
+      "projectName": "BootcampDio",
+      "projectPath": "C:\\Users\\luisg\\Desktop\\GitHub\\BootCampDio\\BootcampDio\\BootcampDio.csproj",
       "packagesPath": "C:\\Users\\luisg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisg\\Desktop\\DIO.ME\\BootCamp - Pottencial\\obj\\",
+      "outputPath": "C:\\Users\\luisg\\Desktop\\GitHub\\BootCampDio\\BootcampDio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +58,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\luisg\\Desktop\\GitHub\\BootCampDio\\BootcampDio.Common\\BootcampDio.Common.csproj": {
+              "projectPath": "C:\\Users\\luisg\\Desktop\\GitHub\\BootCampDio\\BootcampDio.Common\\BootcampDio.Common.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -67,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

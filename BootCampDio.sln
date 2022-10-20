@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampDio", "BootcampDio.csproj", "{5AE2E8A7-FA2C-40C8-95B9-43ABCB8DF435}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampDio", "BootcampDio\BootcampDio.csproj", "{5AE2E8A7-FA2C-40C8-95B9-43ABCB8DF435}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BootcampDio.Common", "BootcampDio.Common\BootcampDio.Common.csproj", "{723B124E-343F-47DF-86ED-2629CDB7514C}"
 EndProject
